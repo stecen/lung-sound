@@ -1,3 +1,3 @@
 # lung-sound
 
-<img src="https://www.dropbox.com/s/ro6tbrvigp2yrq7/lung_flow.png?dl=1">
+<img src="https://i.imgur.com/13WnMna.png">
